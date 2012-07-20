@@ -55,7 +55,7 @@ function slideshow_shortcode($attr) {
 		'id'         => $post->ID,
 		'columns'    => 10,
 		'size'       => 'large',
-                'thumbsize'  => 'thumbnail',
+        'thumbsize'  => 'thumbnail',
 		'include'    => '',
 		'exclude'    => '',
 		'align'	     => 'center',
